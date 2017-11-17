@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Build Flavours and Source Sets</string>
+    <string name="app_name_demo">Build Flavours and Source Sets Demo</string>
 </resources>
